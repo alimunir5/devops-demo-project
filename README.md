@@ -1,6 +1,8 @@
 # Building a DevOps CI/CD Pipeline Locally: GitHub, Jenkins, Maven, SonarQube, Docker, DockerHub, ArgoCD, Helm, Kubernetes, Prometheus, Grafana, Filebeat, OpenSearch, and Kibana
 
 
+Fork d'un [projet de démonstration](https://github.com/abdelbaki-bouzaienne/devops-demo-project), adapté pour s'exercer à la chaîne DevOps complète : une application Java passe par un pipeline CI/CD local (Jenkins, Maven, SonarQube, Docker), se déploie sur Kubernetes avec ArgoCD et Helm, puis est supervisée avec Prometheus, Grafana, Filebeat, OpenSearch et Kibana.
+
 ![Flow Diagram](https://github.com/abdelbaki-bouzaienne/devops-demo-project/blob/main/devops-demo-project.gif)
 
 ## Table of Contents
